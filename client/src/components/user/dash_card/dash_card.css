@@ -1,0 +1,20 @@
+.icon {
+    max-height: 25px;
+    max-width: 25px;
+}
+
+@media (max-width: 600px) {
+    .icon {
+        max-height: 15px;
+        max-width: 15px;
+    }
+}
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+
+a{
+    text-decoration: none;
+}

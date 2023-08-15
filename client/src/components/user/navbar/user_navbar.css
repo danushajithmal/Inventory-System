@@ -1,0 +1,25 @@
+
+.navbar {
+    text-align: center;
+    background: #000;
+    color: aliceblue;
+}
+
+.navbar-heading{
+    text-align: center;
+}
+
+.logo {
+    width: 250px; 
+}
+
+.userlogo{
+    border-radius: 50%;
+}
+
+@media (max-width: 768px) {
+    .logo {
+        width: 180px; 
+        height: 50px;
+    }
+}

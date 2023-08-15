@@ -1,0 +1,9 @@
+.maincont{
+    margin-top: 80px;
+}
+
+@media (min-width: 991.98px) {
+    .admin-body-width {
+        padding-left: 240px;
+    }
+}

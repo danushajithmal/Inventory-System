@@ -1,0 +1,7 @@
+.admindashboard {
+    background-image: url('../../../repository/admin/admin\ dash\ image.jpg');
+    background-size: cover; /* Scale the image to cover the entire element */
+    background-position: center; /* Center the image within the element */
+    background-repeat: no-repeat; /* Prevent repeating the background image */
+    height: 100vh; /* Set the height of the element to the full viewport height */
+}
